@@ -1,0 +1,7 @@
+﻿loginden sonra userin informasiyalarinin deyishilmesi apileri.
+qayda ve shertler
+hesabi sil legv et.
+notification backend api
+xeberler api.
+events desc id. limit 3.
+startupin qisa tesviri text editor olsun

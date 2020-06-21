@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>TR</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="8" cy="8" r="8"></circle>
+        <rect id="path-3" x="0" y="0" width="22" height="16" rx="1.6"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="TR">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Oval-Copy" fill="#D8D8D8" xlink:href="#path-1"></use>
+            <g mask="url(#mask-2)">
+                <g transform="translate(-3.000000, 0.000000)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="Mask" stroke="none" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <rect id="Mask-Copy" stroke="none" fill="#E92434" fill-rule="evenodd" mask="url(#mask-4)" x="0" y="0" width="22" height="16"></rect>
+                    <g id="Group-12" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-4)">
+                        <g transform="translate(6.000000, 4.000000)" fill="#FFFFFF">
+                            <polygon id="Star-8" points="8.07366846 4.52170659 7.05305037 5.23214928 7.42437025 4.05742742 6.40872227 3.31751468 7.66707598 3.31350844 8.05998909 2.14577452 8.46637457 3.31802039 9.72485621 3.33623389 8.71766254 4.06472791 9.10253386 5.24371839 8.07366846 4.52170659 8.07366846 4.52170659"></polygon>
+                            <path d="M7.22799846,1.64216696 C6.6732656,1.24807128 5.9758083,1.01333333 5.21825397,1.01333333 C3.41017889,1.01333333 1.94444444,2.35050955 1.94444444,4 C1.94444444,5.64949045 3.41017889,6.98666667 5.21825397,6.98666667 C5.9758083,6.98666667 6.6732656,6.75192872 7.22799846,6.35783304 C6.50912843,7.25984369 5.38737038,7.84 4.12698413,7.84 C1.95729404,7.84 0.198412698,6.12077344 0.198412698,4 C0.198412698,1.87922656 1.95729404,0.16 4.12698413,0.16 C5.38737038,0.16 6.50912843,0.740156308 7.22799846,1.64216696 Z" id="Oval-41"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
